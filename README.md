@@ -21,11 +21,6 @@ This README is documentation on the syntax of the python client presented in thi
 
 - https://docs.gdax.com/
 
-- You may manually install the project or use ```pip```:
-```python
-pip install GDAX
-```
-
 ### Public Client
 Only some endpoints in the API are available to everyone.  The public endpoints can be reached using ```PublicClient```
 
